@@ -1,0 +1,65 @@
+dataset_name,language,license,url
+Common Crawl,Multilingual,CC0 (Public Domain),https://commoncrawl.org/
+C4 (Colossal Clean Crawled Corpus),English,ODC-BY,https://huggingface.co/datasets/allenai/c4
+mC4 (Multilingual C4),Multilingual (101 languages),ODC-BY,https://huggingface.co/datasets/allenai/mc4
+FineWeb,English,ODC-BY,https://huggingface.co/datasets/HuggingFaceFW/fineweb
+FineWeb-2,Multilingual,ODC-BY,https://huggingface.co/datasets/HuggingFaceFW/fineweb-2
+FineWeb-Edu,English,ODC-BY,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
+DCLM (DataComp-LM),English,CC-BY-4.0,https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0
+OSCAR,Multilingual (166 languages),CC0 / CC-BY-4.0,https://oscar-project.org/
+Common Corpus,Multilingual,Multiple permissive licenses,https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3eb8f3c1f4b2a32
+RedPajama-v1,English,Apache 2.0,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T
+RedPajama-v2,Multilingual (5 languages),Apache 2.0,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2
+SlimPajama,English,Apache 2.0,https://huggingface.co/datasets/cerebras/SlimPajama-627B
+RefinedWeb (Falcon),English,ODC-BY,https://huggingface.co/datasets/tiiuae/falcon-refinedweb
+The Pile,English,MIT,https://pile.eleuther.ai/
+Dolma,English,AI2 ImpACT Low Risk,https://huggingface.co/datasets/allenai/dolma
+OpenWebText,English,CC0,https://skylion007.github.io/OpenWebTextCorpus/
+OpenWebText2,English,CC0,https://openwebtext2.readthedocs.io/
+Wikipedia (English),English,CC-BY-SA-3.0,https://dumps.wikimedia.org/
+Wikipedia (Multilingual),Multilingual (300+ languages),CC-BY-SA-3.0,https://dumps.wikimedia.org/
+BookCorpusOpen,English,Unspecified (research use),https://huggingface.co/datasets/lucadiliello/bookcorpusopen
+Project Gutenberg,Multilingual (60+ languages),Public Domain / Project Gutenberg License,https://www.gutenberg.org/
+The Stack v1,Programming Languages (358 languages),Multiple permissive licenses,https://huggingface.co/datasets/bigcode/the-stack
+The Stack v2,Programming Languages (600+ languages),Multiple permissive licenses,https://huggingface.co/datasets/bigcode/the-stack-v2
+StarCoderData,Programming Languages (86 languages),Multiple permissive licenses,https://huggingface.co/datasets/bigcode/starcoderdata
+FineMath,English,ODC-BY,https://huggingface.co/datasets/HuggingFaceTB/finemath
+Cosmopedia,English (Synthetic),Apache 2.0,https://huggingface.co/datasets/HuggingFaceTB/cosmopedia
+SmolLM Corpus,English,ODC-BY,https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
+ROOTS,Multilingual (46 languages),Multiple licenses (RAIL),https://huggingface.co/datasets/bigscience-data/roots
+CC-100,Multilingual (100+ languages),CC0,https://data.statmt.org/cc-100/
+Pile of Law,English,MIT,https://huggingface.co/datasets/pile-of-law/pile-of-law
+S2ORC (Semantic Scholar Open Research Corpus),English,ODC-BY,https://github.com/allenai/s2orc
+PubMed Central Open Access,English,Multiple open access licenses,https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/
+ArXiv Dataset,English,CC0 / CC-BY,https://www.kaggle.com/datasets/Cornell-University/arxiv
+WuDaoCorpora,Chinese,Custom (BAAI),https://github.com/BAAI-WuDao/Data
+CLUECorpus2020,Chinese,Apache 2.0,https://github.com/CLUEbenchmark/CLUECorpus2020
+CBook-150K,Chinese,Custom,https://github.com/FudanNLPLab/CBook-150K
+WanJuan-CC,Chinese / Multilingual,CC-BY-4.0,https://huggingface.co/datasets/opendatalab/WanJuan-CC
+Europarl,Multilingual (21 EU languages),No restrictions,https://www.statmt.org/europarl/
+UN Parallel Corpus,Multilingual (6 UN languages),Public Domain,https://conferences.unite.un.org/UNCORPUS
+OpenSubtitles,Multilingual (60+ languages),No restrictions,https://opus.nlpl.eu/OpenSubtitles.php
+OPUS (Open Parallel Corpus),Multilingual,Various open licenses,https://opus.nlpl.eu/
+Leipzig Corpora Collection,Multilingual (250+ languages),CC-BY,https://wortschatz.uni-leipzig.de/en/download
+Culturax,Multilingual (167 languages),CC0,https://huggingface.co/datasets/uonlp/CulturaX
+MADLAD-400,Multilingual (419 languages),CC-BY-4.0,https://huggingface.co/datasets/allenai/MADLAD-400
+MathPile,English,CC-BY-SA-4.0,https://huggingface.co/datasets/GAIR/MathPile
+OpenAssistant Conversations (OASST1),Multilingual (35 languages),Apache 2.0,https://huggingface.co/datasets/OpenAssistant/oasst1
+ShareGPT,Multilingual,Unspecified (community shared),https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered
+Alpaca,English,CC-BY-NC-4.0,https://github.com/tatsu-lab/stanford_alpaca
+FLAN v2,English,Apache 2.0,https://github.com/google-research/FLAN
+P3 (Public Pool of Prompts),English,Apache 2.0,https://huggingface.co/datasets/bigscience/P3
+Natural Instructions,Multilingual,Apache 2.0,https://github.com/allenai/natural-instructions
+Aya Collection,Multilingual (114 languages),Apache 2.0,https://huggingface.co/datasets/CohereForAI/aya_collection
+Aya Dataset,Multilingual (65 languages),Apache 2.0,https://huggingface.co/datasets/CohereForAI/aya_dataset
+OpenHermes 2.5,English,Apache 2.0,https://huggingface.co/datasets/teknium/OpenHermes-2.5
+UltraChat,English,MIT,https://huggingface.co/datasets/stingning/ultrachat
+Capybara,English,Apache 2.0,https://huggingface.co/datasets/LDJnr/Capybara
+WildChat,Multilingual,AI2 ImpACT Medium Risk,https://huggingface.co/datasets/allenai/WildChat
+LMSYS-Chat-1M,Multilingual,CC-BY-NC-4.0,https://huggingface.co/datasets/lmsys/lmsys-chat-1m
+Dolly 15K,English,CC-BY-SA-4.0,https://huggingface.co/datasets/databricks/databricks-dolly-15k
+HC3 (Human ChatGPT Comparison),English / Chinese,CC-BY-SA-4.0,https://huggingface.co/datasets/Hello-SimpleAI/HC3
+Phi-1 Textbooks (Textbooks Are All You Need),English (Synthetic),Research use,https://huggingface.co/datasets/open-phi/textbooks
+TinyStories,English (Synthetic),MIT,https://huggingface.co/datasets/roneneldan/TinyStories
+peS2o,English,ODC-BY,https://huggingface.co/datasets/allenai/peS2o
+Proof-Pile-2,English,MIT,https://huggingface.co/datasets/EleutherAI/proof-pile-2
