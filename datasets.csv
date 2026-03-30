@@ -63,3 +63,60 @@ Phi-1 Textbooks (Textbooks Are All You Need),English (Synthetic),Research use,ht
 TinyStories,English (Synthetic),MIT,https://huggingface.co/datasets/roneneldan/TinyStories
 peS2o,English,ODC-BY,https://huggingface.co/datasets/allenai/peS2o
 Proof-Pile-2,English,MIT,https://huggingface.co/datasets/EleutherAI/proof-pile-2
+MNBVC (超大规模中文语料集),Chinese,Apache 2.0,https://github.com/esbatmop/MNBVC
+COIG-PC (Chinese Open Instruction Generalist),Chinese,Apache 2.0,https://huggingface.co/datasets/BAAI/COIG-PC
+SkyPile-150B,Chinese,Custom (BAAI),https://huggingface.co/datasets/Skywork/SkyPile-150B
+Chinese-LLaMA-Alpaca Data,Chinese,Apache 2.0,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+BELLE (Baidu),Chinese,GPL-3.0,https://huggingface.co/BelleGroup
+Firefly (流萤),Chinese,Apache 2.0,https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M
+MOSS SFT Data,Chinese / English,CC-BY-NC-4.0,https://github.com/OpenLMLab/MOSS/tree/main/SFT_data
+mc4-sampling (Japanese),Japanese,ODC-BY,https://huggingface.co/datasets/allenai/mc4
+JGLUE,Japanese,CC-BY-SA-4.0,https://github.com/yahoojapan/JGLUE
+KoAlpaca,Korean,CC-BY-NC-4.0,https://github.com/Beomi/KoAlpaca
+Korean Petitions Dataset,Korean,CC0,https://github.com/lovit/petitions_archive
+ArabicText 2022,Arabic,Research use,https://data.baai.ac.cn/details/ArabicText-2022
+Hindencorp,Hindi,CC-BY-NC-SA,https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0
+AmericanStories,English,CC-BY-4.0,https://huggingface.co/datasets/dell-research-harvard/AmericanStories
+RealNews,English,Apache 2.0,https://github.com/rowanz/grover/tree/master/realnews
+CC-News,English,CC0,https://commoncrawl.org/blog/news-dataset-available
+MultiUN,Multilingual (7 languages),Public Domain,https://opus.nlpl.eu/MultiUN.php
+DialogStudio,Multilingual,Apache 2.0,https://github.com/salesforce/DialogStudio
+Chatbot Arena Conversations,Multilingual,CC-BY-4.0,https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
+OpenOrca,English,MIT,https://huggingface.co/datasets/Open-Orca/OpenOrca
+WizardLM Evol Instruct,English,Unspecified,https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_196k
+LIMA,English,CC-BY-NC-SA,https://huggingface.co/datasets/GAIR/lima
+Platypus (Open-Platypus),English,CC-BY-4.0,https://huggingface.co/datasets/garage-bAInd/Open-Platypus
+Dolphin,English,Apache 2.0,https://huggingface.co/datasets/cognitivecomputations/dolphin
+No Robots,English,CC-BY-NC-4.0,https://huggingface.co/datasets/HuggingFaceH4/no_robots
+HelpSteer,English,CC-BY-4.0,https://huggingface.co/datasets/nvidia/HelpSteer
+HelpSteer2,English,CC-BY-4.0,https://huggingface.co/datasets/nvidia/HelpSteer2
+Anthropic HH-RLHF,English,MIT,https://huggingface.co/datasets/Anthropic/hh-rlhf
+PKU SafeRLHF,English,CC-BY-NC-4.0,https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF
+SHP (Stanford Human Preferences),English,Custom (Stanford),https://huggingface.co/datasets/stanfordnlp/SHP
+StackOverflow Posts,English,CC-BY-SA-4.0,https://huggingface.co/datasets/mikex86/stackoverflow-posts
+ELI5 (Explain Like I'm 5),English,MIT,https://huggingface.co/datasets/eli5
+PubMed Abstracts,English,Public Domain,https://pubmed.ncbi.nlm.nih.gov/download/
+MIMIC-III Clinical Notes,English,PhysioNet Credentialed,https://physionet.org/content/mimiciii/
+PMC Patients,English,CC-BY-SA-4.0,https://huggingface.co/datasets/zhengyun21/PMC-Patients
+MedQA,English / Chinese,Custom,https://github.com/jind11/MedQA
+MedMCQA,English,Apache 2.0,https://medmcqa.github.io/
+FreeLaw (CourtListener),English,Public Domain,https://www.courtlistener.com/api/bulk-info/
+SEC-EDGAR Filings,English,Public Domain,https://www.sec.gov/edgar/searchedgar/companysearch
+FinGPT Dataset,English / Chinese,MIT,https://github.com/AI4Finance-Foundation/FinGPT
+OpenWebMath,English,CC-BY-4.0,https://huggingface.co/datasets/open-web-math/open-web-math
+OpenMathInstruct-1,English,Custom (NVIDIA),https://huggingface.co/datasets/nvidia/OpenMathInstruct-1
+Python-Edu,Programming Languages (Python),ODC-BY,https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
+CodeParrot Clean,Programming Languages,Apache 2.0,https://huggingface.co/datasets/codeparrot/codeparrot-clean
+CodeContests,Programming Languages,Apache 2.0,https://huggingface.co/datasets/deepmind/code_contests
+APPS (Automated Programming Progress Standard),Programming Languages (Python),MIT,https://github.com/hendrycks/apps
+Zhihu-KOL,Chinese,CC0,https://huggingface.co/datasets/wangrui6/Zhihu-KOL
+Wikitext-103,English,CC-BY-SA-3.0,https://huggingface.co/datasets/Salesforce/wikitext
+LaMini-Instruction,English,CC-BY-NC-4.0,https://huggingface.co/datasets/MBZUAI/LaMini-instruction
+TaskSource Instruct,English,Apache 2.0,https://huggingface.co/datasets/tasksource/tasksource-instruct-v0
+Magicoder OSS-Instruct,English / Code,MIT,https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K
+Evol-CodeAlpaca,English / Code,Apache 2.0,https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1
+OIG (Open Instruction Generalist),English,Apache 2.0,https://huggingface.co/datasets/laion/OIG
+Nectar,English,Apache 2.0,https://huggingface.co/datasets/berkeley-nest/Nectar
+UltraFeedback,English,MIT,https://huggingface.co/datasets/openbmb/UltraFeedback
+Deita 10K,English,MIT,https://huggingface.co/datasets/hkust-nlp/deita-10k-v0
+Bible Corpus,Multilingual (100+ languages),Public Domain,https://opus.nlpl.eu/bible-uedin.php
