@@ -222,3 +222,162 @@ SODA,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/soda
 Prosocial Dialog,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/prosocial-dialog
 EmpatheticDialogues,English,CC-BY-NC-4.0,https://huggingface.co/datasets/facebook/empathetic_dialogues
 Wizard of Wikipedia,English,Custom,https://huggingface.co/datasets/facebook/wow
+BioASQ,English,Custom (research use),http://bioasq.org/
+GAD (Genetic Association Database),English,Public Domain,https://geneticassociationdb.nih.gov/
+PubHealth,English,MIT,https://huggingface.co/datasets/health_fact
+HealthSearchQA,English,Custom,https://github.com/Google-Health/med-palm
+MedNLI,English,PhysioNet Credentialed,https://physionet.org/content/mednli/
+MedDialog,English / Chinese,MIT,https://huggingface.co/datasets/medical_dialog
+MTS-Dialog,English,Custom,https://github.com/abachaa/MTS-Dialog
+Medical-Meadow-WikiDoc,English,GPL-3.0,https://huggingface.co/datasets/medalpaca/medical_meadow_wikidoc
+PMC-LLaMA-Instructions,English,Apache 2.0,https://huggingface.co/datasets/axiong/pmc_llama_instructions
+MIMIC-IV Notes,English,PhysioNet Credentialed,https://physionet.org/content/mimic-iv-note/
+i2b2 Clinical NLP,English,Custom (DUA required),https://www.i2b2.org/NLP/DataSets/
+BioRead,English,CC-BY-4.0,https://huggingface.co/datasets/bio_read
+MedQuAD,English,Custom,https://github.com/abachaa/MedQuAD
+CUAD,English,CC-BY-4.0,https://huggingface.co/datasets/cuad
+ContractNLI,English,Custom,https://stanfordnlp.github.io/contract-nli/
+EUR-Lex,Multilingual (24 EU languages),Custom,https://huggingface.co/datasets/eurlex
+LEDGAR,English,CC-BY-4.0,https://huggingface.co/datasets/lex_glue
+LexGLUE,English,CC-BY-4.0,https://huggingface.co/datasets/coastalcph/lex_glue
+BillSum,English,CC0,https://huggingface.co/datasets/billsum
+CanLII (Canadian Legal Information),English / French,Custom,https://www.canlii.org/en/
+ECHR (European Court of Human Rights),English,Custom,https://huggingface.co/datasets/ecthr_cases
+LawStackExchange,English,CC-BY-SA-4.0,https://huggingface.co/datasets/jonathanli/law-stack-exchange
+CAIL2018 (Chinese Legal),Chinese,Custom,https://github.com/thunlp/CAIL
+Financial PhraseBank,English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/takala/financial_phrasebank
+ConvFinQA,English,MIT,https://github.com/czyssrs/ConvFinQA
+TAT-QA,English,MIT,https://github.com/NExTplusplus/TAT-QA
+FinQA,English,MIT,https://github.com/czyssrs/FinQA
+FLARE Finance,English,Apache 2.0,https://huggingface.co/datasets/ChanceFocus/flare-finqa
+FPB (Financial PhraseBank),English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/financial_phrasebank
+EdgarCorpus,English,MIT,https://huggingface.co/datasets/eloukas/edgar-corpus
+SciTail,English,Apache 2.0,https://huggingface.co/datasets/allenai/scitail
+SCIDOCS,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/scidocs
+PeerRead,English,Custom,https://github.com/allenai/PeerRead
+unarXive,English,CC-BY-SA-4.0,https://github.com/IllDepence/unarXive
+ScienceQA,English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/derek-thomas/ScienceQA
+CLUE Benchmark,Chinese,Apache 2.0,https://github.com/CLUEbenchmark/CLUE
+DuReader,Chinese,Apache 2.0,https://github.com/baidu/DuReader
+CMRC 2018,Chinese,CC-BY-SA-4.0,https://github.com/ymcui/cmrc2018
+LCSTS (Large-Scale Chinese Short Text Summarization),Chinese,Custom,https://github.com/IceBearICE/LCSTS_DATASET
+THUCNews,Chinese,Custom,https://github.com/thunlp/THUCNews
+CNewSum,Chinese,Apache 2.0,https://github.com/dqwang122/CNewSum
+CSL (Chinese Scientific Literature),Chinese,Apache 2.0,https://github.com/ydli-ai/CSL
+AFQMC,Chinese,Apache 2.0,https://huggingface.co/datasets/clue/clue
+CMNLI,Chinese,Apache 2.0,https://huggingface.co/datasets/clue/clue
+ChID (Chinese Idiom Dataset),Chinese,Custom,https://github.com/zhengcj1/ChID-Dataset
+C3 (Chinese Machine Reading Comprehension),Chinese,Custom,https://github.com/nlpdata/c3
+DRCD (Delta Reading Comprehension Dataset),Chinese,CC-BY-SA-4.0,https://github.com/DRCKnowledgeTeam/DRCD
+JCommonsenseQA,Japanese,CC-BY-SA-4.0,https://github.com/yahoojapan/JGLUE
+JSQuAD,Japanese,CC-BY-SA-4.0,https://github.com/yahoojapan/JGLUE
+MARC-ja (Multilingual Amazon Reviews),Japanese,Custom,https://huggingface.co/datasets/amazon_reviews_multi
+JaQuAD,Japanese,CC-BY-SA-4.0,https://huggingface.co/datasets/SkelterLabsInc/JaQuAD
+SNOW (Simplified Japanese),Japanese,CC-BY-4.0,https://github.com/shinjnagai/SNOW
+JSNLI,Japanese,CC-BY-SA-4.0,https://nlp.ist.i2.nagoya-u.ac.jp/index.php/JSNLI
+KorQuAD 1.0,Korean,CC-BY-ND-2.0,https://korquad.github.io/
+KorQuAD 2.0,Korean,CC-BY-ND-2.0,https://korquad.github.io/
+KoBERT Data,Korean,Apache 2.0,https://github.com/SKTBrain/KoBERT
+AIHub Korean-English Parallel Corpus,Korean / English,Custom,https://aihub.or.kr/
+GermEval 2018,German,Custom,https://projects.fzai.h-da.de/iggsa/germeval-2018/
+FlauBERT Data,French,MIT,https://github.com/getalp/Flaubert
+PAWS-X,Multilingual (7 languages),Custom,https://huggingface.co/datasets/google-research-datasets/paws-x
+MLSum,Multilingual (5 languages),Custom,https://huggingface.co/datasets/mlsum
+WikiANN (PAN-X),Multilingual (282 languages),Custom,https://huggingface.co/datasets/wikiann
+ARCD (Arabic Reading Comprehension),Arabic,Custom,https://huggingface.co/datasets/hsseinmz/arcd
+Arabic-SQuAD,Arabic,Custom,https://github.com/husseinmozannar/SOQAL
+IndicNLP Suite,Indic Languages,CC0,https://indicnlp.ai4bharat.org/
+Samanantar,Indic Languages (11 languages),CC-BY-4.0,https://huggingface.co/datasets/ai4bharat/samanantar
+IndicGLUE,Indic Languages,CC-BY-4.0,https://indicnlp.ai4bharat.org/indicglue/
+Sangraha,Indic Languages,CC-BY-4.0,https://huggingface.co/datasets/ai4bharat/sangraha
+OPUS-100,Multilingual (100 languages),Custom,https://huggingface.co/datasets/Helsinki-NLP/opus-100
+ParaCrawl,Multilingual,CC0,https://paracrawl.eu/
+LogiQA,English / Chinese,Custom,https://huggingface.co/datasets/lucasmccabe/logiqa
+ReClor,English,Custom,https://whyu.me/reclor/
+FOLIO,English,CC-BY-4.0,https://github.com/Yale-LILY/FOLIO
+ProofWriter,English,Apache 2.0,https://allenai.org/data/proofwriter
+EntailmentBank,English,CC-BY-4.0,https://allenai.org/data/entailmentbank
+RuleTaker,English,Apache 2.0,https://allenai.org/data/ruletaker
+LogiQA 2.0,English / Chinese,Custom,https://github.com/csitfun/LogiQA2.0
+ToxiGen,English,CC-BY-4.0,https://huggingface.co/datasets/skg/toxigen-data
+CivilComments,English,CC0,https://huggingface.co/datasets/google/civil_comments
+RealToxicityPrompts,English,Apache 2.0,https://huggingface.co/datasets/allenai/real-toxicity-prompts
+Social Chemistry 101,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/social_chem101
+SafetyBench,English / Chinese,Apache 2.0,https://github.com/thu-coai/SafetyBench
+Do-Not-Answer,English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/LibrAI/do-not-answer
+BeaverTails,English,CC-BY-NC-4.0,https://huggingface.co/datasets/PKU-Alignment/BeaverTails
+WildGuard,English,Apache 2.0,https://huggingface.co/datasets/allenai/wildguardmix
+LLaVA-Instruct-150K,English,Apache 2.0,https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K
+TextVQA,English,CC-BY-4.0,https://huggingface.co/datasets/facebook/textvqa
+DocVQA,English,Custom,https://huggingface.co/datasets/lmms-lab/DocVQA
+ChartQA,English,GPL-3.0,https://huggingface.co/datasets/ahmed-masry/ChartQA
+InfographicVQA,English,Custom,https://huggingface.co/datasets/lmms-lab/infographicvqa
+OCR-VQA,English,Custom,https://ocr-vqa.github.io/
+ToolBench,English,Apache 2.0,https://huggingface.co/datasets/Toolbench/ToolBench
+AgentBench,English,Apache 2.0,https://github.com/THUDM/AgentBench
+APIBench (Gorilla),English,Apache 2.0,https://huggingface.co/datasets/gorilla-llm/APIBench
+ToolAlpaca,English,Apache 2.0,https://github.com/tangqiaoyu/ToolAlpaca
+TaskBench,English,Apache 2.0,https://github.com/microsoft/JARVIS
+AgentInstruct,English,CC-BY-4.0,https://huggingface.co/datasets/THUDM/AgentInstruct
+Glaive Function Calling v2,English,Apache 2.0,https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2
+LongBench,English / Chinese,MIT,https://huggingface.co/datasets/THUDM/LongBench
+InfiniteBench,English / Chinese,MIT,https://huggingface.co/datasets/xinrongzhang2022/InfiniteBench
+SCROLLS,English,MIT,https://huggingface.co/datasets/tau/scrolls
+QuALITY,English,CC-BY-4.0,https://huggingface.co/datasets/emozilla/quality
+NarrativeQA,English,Apache 2.0,https://huggingface.co/datasets/deepmind/narrativeqa
+MuSiQue,English,CC-BY-4.0,https://huggingface.co/datasets/drt/musique
+HotpotQA,English,CC-BY-SA-4.0,https://huggingface.co/datasets/hotpotqa/hotpot_qa
+Qasper,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/qasper
+Natural Questions,English,CC-BY-SA-3.0,https://huggingface.co/datasets/google-research-datasets/natural_questions
+MS MARCO,English,Custom,https://huggingface.co/datasets/microsoft/ms_marco
+SearchQA,English,Custom,https://huggingface.co/datasets/search_qa
+WebQuestions,English,CC-BY-4.0,https://huggingface.co/datasets/Stanford/web_questions
+Intel Orca DPO Pairs,English,Apache 2.0,https://huggingface.co/datasets/Intel/orca_dpo_pairs
+Genstruct,English,Apache 2.0,https://huggingface.co/datasets/NousResearch/Genstruct-7B
+NeuralChat-v3 Data,English,Apache 2.0,https://huggingface.co/Intel/neural-chat-7b-v3-3
+Self-Instruct,English,Apache 2.0,https://github.com/yizhongw/self-instruct
+Orca 2 Training Mix,English,Custom (Microsoft Research),https://huggingface.co/microsoft/Orca-2-13b
+Phi-2 Synthetic Data,English (Synthetic),MIT,https://huggingface.co/microsoft/phi-2
+LMSYS-Chat-1M-Clean,Multilingual,CC-BY-NC-4.0,https://huggingface.co/datasets/lmsys/lmsys-chat-1m
+Chatbot Arena Preferences,Multilingual,CC-BY-4.0,https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
+Together RedPajama Chat,English,Apache 2.0,https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T-Sample
+ShareGPT4V Text,English,Apache 2.0,https://huggingface.co/datasets/Lin-Chen/ShareGPT4V
+Pile-T5,English,MIT,https://huggingface.co/datasets/EleutherAI/the-pile-deduplicated
+Pile Uncopyrighted,English,MIT,https://huggingface.co/datasets/monology/pile-uncopyrighted
+Open-Platypus-Refined,English,CC-BY-4.0,https://huggingface.co/datasets/garage-bAInd/Open-Platypus
+Camel-AI,English,CC-BY-NC-4.0,https://huggingface.co/datasets/camel-ai/physics
+OpenBookQA,English,Apache 2.0,https://huggingface.co/datasets/allenai/openbookqa
+QASC,English,Apache 2.0,https://huggingface.co/datasets/allenai/qasc
+StrategyQA,English,MIT,https://huggingface.co/datasets/ChilleD/StrategyQA
+CREAK,English,MIT,https://github.com/yasumasaonoe/creak
+WiCE,English,CC-BY-4.0,https://github.com/SimengSun/WiCE
+FEVER (Fact Extraction and Verification),English,CC-BY-SA-3.0,https://huggingface.co/datasets/fever/fever
+VitaminC,English,CC-BY-SA-3.0,https://huggingface.co/datasets/tals/vitaminc
+Bamboogle,English,Apache 2.0,https://huggingface.co/datasets/jzbjyb/bamboogle
+DROP,English,Custom,https://huggingface.co/datasets/ucinlp/drop
+IIRC,English,CC-BY-4.0,https://allenai.org/data/iirc
+WikiTableQuestions,English,CC-BY-SA-4.0,https://huggingface.co/datasets/Stanford/web_questions
+TabFact,English,MIT,https://github.com/wenhuchen/Table-Fact-Checking
+SQA (Sequential Question Answering),English,CC-BY-SA-4.0,https://huggingface.co/datasets/msr-ai/sqa
+HybridQA,English,CC-BY-SA-4.0,https://github.com/wenhuchen/HybridQA
+FeTaQA,English,CC-BY-SA-4.0,https://github.com/Yale-LILY/FeTaQA
+SPIDER (Text-to-SQL),English,CC-BY-SA-4.0,https://huggingface.co/datasets/xlangai/spider
+WikiSQL,English,BSD-3,https://huggingface.co/datasets/kpriyanshu256/wikisql
+BIRD-SQL,English,CC-BY-SA-4.0,https://bird-bench.github.io/
+CoSQL,English,CC-BY-SA-4.0,https://yale-lily.github.io/cosql
+SParC,English,CC-BY-SA-4.0,https://yale-lily.github.io/sparc
+Magpie-Qwen2-Pro-200K,English,Apache 2.0,https://huggingface.co/datasets/Magpie-Align/Magpie-Qwen2-Pro-200K-English
+SmolTalk,English,Apache 2.0,https://huggingface.co/datasets/HuggingFaceTB/smoltalk
+Argilla-Capybara-DPO,English,Apache 2.0,https://huggingface.co/datasets/argilla/capybara-dpo-7k-binarized
+Tulu-v2-SFT-Mixture,English,AI2 ImpACT Low Risk,https://huggingface.co/datasets/allenai/tulu-v2-sft-mixture
+Open-Instruct-V1,English,AI2 ImpACT Low Risk,https://huggingface.co/datasets/allenai/open-instruct-v1
+WizardLM Evol Instruct V2 143k,English,Unspecified,https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_143k
+Hermes-2-DPO,English,Apache 2.0,https://huggingface.co/datasets/teknium/OpenHermes-2.5
+Orca-DPO-Pairs,English,Apache 2.0,https://huggingface.co/datasets/Intel/orca_dpo_pairs
+Distilabel-Intel-Orca,English,Apache 2.0,https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs
+AgentTuning,English,Apache 2.0,https://huggingface.co/datasets/THUDM/AgentInstruct
+CVALUES,Chinese,Apache 2.0,https://github.com/X-PLUG/CValues
+Zhihu-QA,Chinese,Custom,https://huggingface.co/datasets/wangrui6/Zhihu-KOL
+Alpaca-GPT4,English,Apache 2.0,https://huggingface.co/datasets/vicgalle/alpaca-gpt4
+ShareGPT-Chinese,Chinese,CC-BY-NC-4.0,https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-CN
+Xsum-Chinese,Chinese,MIT,https://huggingface.co/datasets/xsum
