@@ -120,3 +120,105 @@ Nectar,English,Apache 2.0,https://huggingface.co/datasets/berkeley-nest/Nectar
 UltraFeedback,English,MIT,https://huggingface.co/datasets/openbmb/UltraFeedback
 Deita 10K,English,MIT,https://huggingface.co/datasets/hkust-nlp/deita-10k-v0
 Bible Corpus,Multilingual (100+ languages),Public Domain,https://opus.nlpl.eu/bible-uedin.php
+SQuAD 2.0,English,CC-BY-SA-4.0,https://huggingface.co/datasets/rajpurkar/squad_v2
+MNLI (MultiNLI),English,OANC,https://huggingface.co/datasets/nyu-mll/multi_nli
+SNLI,English,CC-BY-SA-4.0,https://huggingface.co/datasets/stanfordnlp/snli
+WMT14 Translation,Multilingual,Custom,https://huggingface.co/datasets/wmt/wmt14
+GLUE Benchmark,English,Various,https://huggingface.co/datasets/nyu-mll/glue
+SuperGLUE,English,Various,https://huggingface.co/datasets/aps/super_glue
+CNN/DailyMail,English,Apache 2.0,https://huggingface.co/datasets/abisee/cnn_dailymail
+XSum,English,MIT,https://huggingface.co/datasets/EdinburghNLP/xsum
+CoQA,English,Custom,https://stanfordnlp.github.io/coqa/
+TriviaQA,English,Apache 2.0,https://huggingface.co/datasets/mandarjoshi/trivia_qa
+CommonsenseQA,English,MIT,https://huggingface.co/datasets/tau/commonsense_qa
+ARC (AI2 Reasoning Challenge),English,CC-BY-SA-4.0,https://huggingface.co/datasets/allenai/ai2_arc
+HellaSwag,English,MIT,https://huggingface.co/datasets/Rowan/hellaswag
+WinoGrande,English,Apache 2.0,https://huggingface.co/datasets/allenai/winogrande
+PIQA,English,AFL-3.0,https://huggingface.co/datasets/ybisk/piqa
+BoolQ,English,CC-BY-SA-3.0,https://huggingface.co/datasets/google/boolq
+RACE,English,Custom,https://huggingface.co/datasets/ehovy/race
+CosmosQA,English,CC-BY-4.0,https://huggingface.co/datasets/cosmos_qa
+Cosmopedia v2,English (Synthetic),Apache 2.0,https://huggingface.co/datasets/HuggingFaceTB/cosmopedia-v2
+FineWeb-Edu-score-2,English,ODC-BY,https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2
+DCLM-pool,English,CC-BY-4.0,https://huggingface.co/datasets/mlfoundations/dclm-pool-400m-1x
+Zyda-2,English,Multiple open licenses,https://huggingface.co/datasets/Zyphra/Zyda-2
+Zyda,English,Multiple open licenses,https://huggingface.co/datasets/Zyphra/Zyda
+Dolma v1.7,English,AI2 ImpACT Low Risk,https://huggingface.co/datasets/allenai/dolma-v1_7
+Tulu 3 SFT Mixture,English,AI2 ImpACT Low Risk,https://huggingface.co/datasets/allenai/tulu-3-sft-mixture
+WildChat-1M,Multilingual,AI2 ImpACT Medium Risk,https://huggingface.co/datasets/allenai/WildChat-1M
+OpenMathInstruct-2,English,Custom (NVIDIA),https://huggingface.co/datasets/nvidia/OpenMathInstruct-2
+Nemotron-4-340B-Instruct-SFT,English (Synthetic),CC-BY-4.0,https://huggingface.co/datasets/nvidia/Daring-Anteater
+OASST2,Multilingual,Apache 2.0,https://huggingface.co/datasets/OpenAssistant/oasst2
+Magpie-Pro-300K,English,Apache 2.0,https://huggingface.co/datasets/Magpie-Align/Magpie-Pro-300K-Filtered
+Magpie-Air-3M,English,Apache 2.0,https://huggingface.co/datasets/Magpie-Align/Magpie-Air-300K-Filtered
+Infinity-Instruct,Multilingual,Apache 2.0,https://huggingface.co/datasets/BAAI/Infinity-Instruct
+WebInstructSub,English,MIT,https://huggingface.co/datasets/TIGER-Lab/WebInstructSub
+MAmmoTH2-Instruct,English,Apache 2.0,https://huggingface.co/datasets/TIGER-Lab/MAmmoTH2
+NuminaMath-CoT,English,Apache 2.0,https://huggingface.co/datasets/AI-MO/NuminaMath-CoT
+NuminaMath-TIR,English,Apache 2.0,https://huggingface.co/datasets/AI-MO/NuminaMath-TIR
+MetaMathQA,English,MIT,https://huggingface.co/datasets/meta-math/MetaMathQA
+MathInstruct,English,MIT,https://huggingface.co/datasets/TIGER-Lab/MathInstruct
+Orca-Math,English,MIT,https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k
+CodeAlpaca-20K,English / Code,Apache 2.0,https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k
+CodeFeedback-Filtered-Instruction,English / Code,Apache 2.0,https://huggingface.co/datasets/m-a-p/CodeFeedback-Filtered-Instruction
+Glaive-Code-Assistant,English / Code,Apache 2.0,https://huggingface.co/datasets/glaiveai/glaive-code-assistant
+CommitPackFT,Programming Languages,Multiple permissive licenses,https://huggingface.co/datasets/bigcode/commitpackft
+SWE-bench,Python,MIT,https://huggingface.co/datasets/princeton-nlp/SWE-bench
+HumanEval,Python,MIT,https://huggingface.co/datasets/openai/openai_humaneval
+MBPP,Python,CC-BY-4.0,https://huggingface.co/datasets/google-research-datasets/mbpp
+DS-1000,Python,CC-BY-SA-4.0,https://github.com/xlang-ai/DS-1000
+ClinicalTrials.gov,English,Public Domain,https://clinicaltrials.gov/ct2/resources/download
+PubMedQA,English,MIT,https://huggingface.co/datasets/qiaojin/PubMedQA
+Medical-Meadow-MedQA,English,GPL-3.0,https://huggingface.co/datasets/medalpaca/medical_meadow_medqa
+ChatDoctor-HealthCareMagic,English,Apache 2.0,https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k
+MultiMedQA,English,Custom,https://github.com/Google-Health/med-palm
+CaseHOLD,English,CC-BY-4.0,https://huggingface.co/datasets/casehold/casehold
+LegalBench,English,CC-BY-4.0,https://huggingface.co/datasets/nguha/legalbench
+MultiLegalPile,Multilingual,CC-BY-4.0,https://huggingface.co/datasets/joelito/Multi_Legal_Pile
+FinanceBench,English,CC-BY-NC-4.0,https://huggingface.co/datasets/PatronusAI/financebench
+FiQA,English,Custom,https://huggingface.co/datasets/BeIR/fiqa
+Sujet-Finance-Instruct,English,Apache 2.0,https://huggingface.co/datasets/sujet-ai/Sujet-Finance-Instruct-177k
+SciFact,English,CC-BY-NC-2.0,https://huggingface.co/datasets/allenai/scifact
+SciQ,English,CC-BY-NC-3.0,https://huggingface.co/datasets/allenai/sciq
+MMLU,English,MIT,https://huggingface.co/datasets/cais/mmlu
+GSM8K,English,MIT,https://huggingface.co/datasets/openai/gsm8k
+MATH,English,MIT,https://huggingface.co/datasets/lighteval/MATH
+BIG-bench,English,Apache 2.0,https://huggingface.co/datasets/google/bigbench
+XTREME,Multilingual (40 languages),CC-BY-4.0,https://huggingface.co/datasets/google/xtreme
+XNLI,Multilingual (15 languages),Custom,https://huggingface.co/datasets/facebook/xnli
+TyDi QA,Multilingual (11 languages),Apache 2.0,https://huggingface.co/datasets/google-research-datasets/tydiqa
+XQuAD,Multilingual (11 languages),CC-BY-SA-4.0,https://huggingface.co/datasets/google/xquad
+FLORES-200,Multilingual (200 languages),CC-BY-SA-4.0,https://huggingface.co/datasets/facebook/flores
+NLLB Seed Data,Multilingual (39 languages),CC-BY-SA-4.0,https://huggingface.co/datasets/facebook/nllb-seed
+Tatoeba,Multilingual (400+ languages),CC-BY-2.0,https://tatoeba.org/en/downloads
+CC-ALIGNED,Multilingual (137 languages),Custom,https://www.statmt.org/cc-aligned/
+JParaCrawl,Japanese / English,CC-BY-SA-4.0,https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
+KWDLC (Kyoto Web Document Leads Corpus),Japanese,Custom,https://github.com/ku-nlp/KWDLC
+KorNLI / KorSTS,Korean,CC-BY-SA-4.0,https://huggingface.co/datasets/kor_nli
+KLUE,Korean,CC-BY-SA-4.0,https://huggingface.co/datasets/klue/klue
+BAAI-CCI (Chinese Corpus Internet),Chinese,Apache 2.0,https://huggingface.co/datasets/BAAI/CCI-Data
+ChineseWebText,Chinese,Apache 2.0,https://huggingface.co/datasets/CASIA-LM/ChineseWebText
+TigerBot Pretraining Data,Chinese,Apache 2.0,https://huggingface.co/datasets/TigerResearch/pretrain_zh
+InfiMM-WebMath,English,Apache 2.0,https://huggingface.co/datasets/flagopen/InfiMM-WebMath-40B
+AutoMathText,English,CC-BY-SA-4.0,https://huggingface.co/datasets/math-ai/AutoMathText
+StarCoder2-Self-Align,Programming Languages,Apache 2.0,https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k
+Evol-Instruct-Code-80k,English / Code,Apache 2.0,https://huggingface.co/datasets/nickrosh/Evol-Instruct-Code-80k-v1
+WizardLM Evol Instruct 70K,English,Unspecified,https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_70k
+SlimOrca,English,Apache 2.0,https://huggingface.co/datasets/Open-Orca/SlimOrca
+Airoboros,English,Apache 2.0,https://huggingface.co/datasets/jondurbin/airoboros-3.2
+Guanaco,Multilingual,GPL-3.0,https://huggingface.co/datasets/JosephusCheworka/guanaco-non-chat
+Vicuna ShareGPT Cleaned,Multilingual,CC-BY-NC-4.0,https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered
+LongAlpaca-12k,English,Apache 2.0,https://huggingface.co/datasets/Yukang/LongAlpaca-12k
+LongForm,English,MIT,https://huggingface.co/datasets/akoksal/LongForm
+Booksum,English,Custom,https://huggingface.co/datasets/kmfoda/booksum
+PG-19,English,Apache 2.0,https://huggingface.co/datasets/deepmind/pg19
+GovReport,English,Custom,https://huggingface.co/datasets/ccdv/govreport-summarization
+Multi-News,English,Custom,https://huggingface.co/datasets/alexfabbri/multi_news
+SAMSum,English,CC-BY-NC-ND-4.0,https://huggingface.co/datasets/Samsung/samsum
+DialogSum,English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/knkarthick/dialogsum
+DailyDialog,English,CC-BY-NC-SA-4.0,https://huggingface.co/datasets/li2017dailydialog/dailydialog
+PersonaChat,English,MIT,https://huggingface.co/datasets/bavard/personachat_truecased
+SODA,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/soda
+Prosocial Dialog,English,CC-BY-4.0,https://huggingface.co/datasets/allenai/prosocial-dialog
+EmpatheticDialogues,English,CC-BY-NC-4.0,https://huggingface.co/datasets/facebook/empathetic_dialogues
+Wizard of Wikipedia,English,Custom,https://huggingface.co/datasets/facebook/wow
